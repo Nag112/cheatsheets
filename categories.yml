@@ -1,0 +1,37 @@
+enabled: true
+names:
+  - Analytics
+  - Amethyst
+  - Ansible
+  - Apps
+  - AppleScript
+  - Bash
+  - Bootstrap5
+  - C-like
+  - CLI
+  - CSS
+  - Databases
+  - Devops
+  - Elixir
+  - Git
+  - HTML
+  - Java & JVM
+  - JavaScript
+  - JavaScript libraries
+  - Jekyll
+  - kubernetes
+  - Ledger
+  - Laravel
+  - Markup
+  - macOS
+  - Node.js
+  - Nginx
+  - PHP
+  - Python
+  - Rails
+  - React
+  - Ruby
+  - Ruby libraries
+  - Vim
+  - Fitness
+  - Others
